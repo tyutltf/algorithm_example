@@ -1,6 +1,6 @@
 from queue import Queue
 
-q=Queue(maxsize=0)
+q = Queue(maxsize=0)
 
 q.put(1)
 q.put(2)
